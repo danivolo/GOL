@@ -1,5 +1,5 @@
 # GOL
-DIY cryptography project based on cellular automata simulations
+Esploriamo le applicazioni della caoticità degli automi cellulari alla crittografia.
 
 ## Presentazione
 Una [presentazione](https://1drv.ms/p/s!Ai4UpOWgiwLEqkcNpdKv7rPl_6n8?e=qhNEvU) con 
@@ -30,5 +30,5 @@ La password genera una configurazione iniziale di un automa cellulare, che viene
 
 Successivamente si effettuano dei test statistici di correlazione tra immagini iniziali e finali, e di sensibilità dell'immagine criptata rispetto a un piccolo cambiamento nella password.
 
-Riferimenti:
+# Riferimenti:
 Gli articoli nelle cartelle
